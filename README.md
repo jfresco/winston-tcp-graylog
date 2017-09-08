@@ -1,7 +1,7 @@
 # winston-tcp-graylog
 
 ```
-npm i -S winston-tcp-graylog winston
+npm i -S @restorando/winston-tcp-graylog winston
 ```
 
 A [graylog2](http://www.graylog2.org) transport for [winston](https://github.com/flatiron/winston) based on the [node-gelf-pro](https://github.com/kkamkou/node-gelf-pro) library. Support TCP and UPD protocol.
@@ -116,3 +116,13 @@ logger.error(`some formatted message \
     }
 }
 ```
+
+## Contributing
+
+This is a fork from https://github.com/nskazki/winston-tcp-graylog and pretends to be actively mantained.
+
+If you find a bug, create an issue. Pull requests are also welcomed.
+
+### Publishing
+
+`npm publish --access public`
