@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nskazki/winston-tcp-graylog.git"
+    "url": "git+https://github.com/restorando/winston-tcp-graylog.git"
   },
   "keywords": [
     "winston",
@@ -24,9 +24,9 @@
   "author": "nskazki@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nskazki/winston-tcp-graylog/issues"
+    "url": "https://github.com/restorando/winston-tcp-graylog/issues"
   },
-  "homepage": "https://github.com/nskazki/winston-tcp-graylog#readme",
+  "homepage": "https://github.com/restorando/winston-tcp-graylog#readme",
   "dependencies": {
     "bluebird": "^3.1.1",
     "clear-require": "^1.0.1",
